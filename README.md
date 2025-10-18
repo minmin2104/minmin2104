@@ -24,8 +24,7 @@ wrote a lot of C ⚙️ and Golang 🌀. I love it. Still do ❤️.
 
 ## 🧰 The tools
 
-- 🐧 Fedora Linux
-- 💻 Old laptop
-- 🧠 Neovim, 🪟 Tmux, 🧬 Git
+- 🪟 Windows
+- 🧠 Vanilla Emacs
 
-That’s all we need, baby. Sometimes Emacs cuzz Emacs is fun too 💫.
+I daily drive linux in the past, but now since that laptop is dead, and I'm on a new one, I'm sticking with windows for a while.
