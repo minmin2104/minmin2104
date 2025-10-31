@@ -24,7 +24,11 @@ wrote a lot of C ⚙️ and Golang 🌀. I love it. Still do ❤️.
 
 ## 🧰 The tools
 
-- 🪟 Windows
-- 🧠 Vanilla Emacs
+Dual Booting
+
+- Linux
+- Neovim
+- Windows
+- Vanilla Emacs
 
 I daily drive linux in the past, but now since that laptop is dead, and I'm on a new one, I'm sticking with windows for a while.
