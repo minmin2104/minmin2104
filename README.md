@@ -24,7 +24,5 @@ wrote a lot of C ⚙️ and Golang 🌀. I love it. Still do ❤️.
 
 ## 🧰 The tools
 
-Dual Booting
-
 - Linux
 - Neovim
